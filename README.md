@@ -7,6 +7,6 @@ brancher la clé usb sur un pc et lancez le fichier .bat Scanner les mots de pas
 
 une fois ceci fait et que vous avez clicker sur OUI pour tous les programmes lancer vous pouvez tous quitter et regarder 
 les fichiers text qui ce sont créer la ou vous avez tous mis.
-Il y aura les mots de passe enregister czlon les programmes par exemple PasswordFox enregistre les mots de passe de Firefox et ChromePass de google chrome.
+Il y aura les mots de passe enregister celon les programmes par exemple PasswordFox enregistre les mots de passe de Firefox et ChromePass de google chrome, wirelesspass pour les mots de passe des réseaux deja enregister sur le pc.
 vous cevez aussi lancer les programmes pour voir les mdp ennregistrer car les fichiers text ne marche pas tous le temps.
 
